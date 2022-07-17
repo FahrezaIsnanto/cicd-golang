@@ -15,7 +15,7 @@ func main() {
 	log.SetFlags(0)
 
 	// A slice of names.
-	names := []string{"Gladys", "Samantha", "Darrin"}
+	names := []string{"Muhammad", "Fahreza", "Isnanto"}
 
 	// Request greeting messages for the names.
 	messages, err := golanggreetings.Hellos(names)
